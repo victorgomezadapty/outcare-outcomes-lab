@@ -7,6 +7,11 @@ what is associated with return to work (RTW) and health-related quality of life 
 
 **Status: public.** Repository: https://github.com/victorgomezadapty/outcare-outcomes-lab
 
+The same Zenodo workbook and this analysis are also on Kaggle:
+
+* Dataset: https://www.kaggle.com/datasets/vctorandrsgmezlpez/outcare-cardiac-rehabilitation-outcomes-registry
+* Notebook: https://www.kaggle.com/code/vctorandrsgmezlpez/outcare-outcomes-lab-cr-change-and-return-to-work
+
 ## Question
 
 In the German multi-centre OutCaRe registry (1262 working-age patients who answered the
