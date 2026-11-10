@@ -1,0 +1,109 @@
+term,estimate,ci_low,ci_high,p,scale,label,method,n,outcome,fmi_approx
+age10,1.072,0.841,1.367,0.573,odds ratio,Age (per 10 years),complete case,949,rtw_yes,
+female,1.216,0.795,1.859,0.367,odds ratio,Female sex,complete case,949,rtw_yes,
+edu_high,1.283,0.852,1.933,0.233,odds ratio,College/university education,complete case,949,rtw_yes,
+acs,0.707,0.491,1.018,0.062,odds ratio,Indication: ACS,complete case,949,rtw_yes,
+hf_indication,1.343,0.522,3.453,0.541,odds ratio,Indication: chronic heart failure,complete case,949,rtw_yes,
+training0_10,1.293,1.155,1.447,0.0,odds ratio,Training load T0 (per 10 W),complete case,949,rtw_yes,
+dtraining_10,1.07,0.977,1.172,0.144,odds ratio,Change in training load T0 to T1 (per 10 W),complete case,949,rtw_yes,
+pcs0_10,1.44,1.112,1.865,0.006,odds ratio,SF-12 PCS T0 (per 10 pts),complete case,949,rtw_yes,
+dpcs_10,1.132,0.883,1.451,0.329,odds ratio,Change in PCS T0 to T1 (per 10 pts),complete case,949,rtw_yes,
+mcs0_10,1.529,1.152,2.029,0.003,odds ratio,SF-12 MCS T0 (per 10 pts),complete case,949,rtw_yes,
+dmcs_10,1.264,0.983,1.626,0.068,odds ratio,Change in MCS T0 to T1 (per 10 pts),complete case,949,rtw_yes,
+haf0,0.987,0.667,1.462,0.949,odds ratio,HAF-17 mean T0 (per 1 pt),complete case,949,rtw_yes,
+dhaf,0.912,0.572,1.453,0.698,odds ratio,Change in HAF-17 T0 to T1 (per 1 pt),complete case,949,rtw_yes,
+who0_10,0.913,0.823,1.014,0.088,odds ratio,WHO-5 T0 (per 10 pts),complete case,949,rtw_yes,
+asku0,1.005,0.772,1.307,0.971,odds ratio,ASKU self-efficacy T0 (per 1 pt),complete case,949,rtw_yes,
+t1health_yes,1.107,0.765,1.603,0.59,odds ratio,Excellent/very good health prognosis T1,complete case,949,rtw_yes,
+t1pension_yes,0.426,0.267,0.68,0.0,odds ratio,Pension desire T1,complete case,949,rtw_yes,
+t1occupat_yes,0.345,0.235,0.508,0.0,odds ratio,Negative occupational prognosis T1,complete case,949,rtw_yes,
+age10,-0.242,-0.958,0.474,0.508,points,Age (per 10 years),complete case,906,t2pcs12,
+female,0.322,-1.001,1.645,0.633,points,Female sex,complete case,906,t2pcs12,
+edu_high,2.772,1.607,3.938,0.0,points,College/university education,complete case,906,t2pcs12,
+acs,-0.893,-1.975,0.189,0.106,points,Indication: ACS,complete case,906,t2pcs12,
+hf_indication,-2.267,-5.281,0.748,0.141,points,Indication: chronic heart failure,complete case,906,t2pcs12,
+training0_10,0.176,-0.115,0.466,0.236,points,Training load T0 (per 10 W),complete case,906,t2pcs12,
+dtraining_10,0.26,-0.004,0.523,0.054,points,Change in training load T0 to T1 (per 10 W),complete case,906,t2pcs12,
+pcs0_10,4.991,4.193,5.788,0.0,points,SF-12 PCS T0 (per 10 pts),complete case,906,t2pcs12,
+dpcs_10,3.368,2.576,4.161,0.0,points,Change in PCS T0 to T1 (per 10 pts),complete case,906,t2pcs12,
+mcs0_10,1.042,0.155,1.929,0.021,points,SF-12 MCS T0 (per 10 pts),complete case,906,t2pcs12,
+dmcs_10,0.285,-0.514,1.084,0.484,points,Change in MCS T0 to T1 (per 10 pts),complete case,906,t2pcs12,
+haf0,-1.955,-3.157,-0.753,0.001,points,HAF-17 mean T0 (per 1 pt),complete case,906,t2pcs12,
+dhaf,-1.734,-3.168,-0.301,0.018,points,Change in HAF-17 T0 to T1 (per 1 pt),complete case,906,t2pcs12,
+who0_10,-0.002,-0.317,0.313,0.991,points,WHO-5 T0 (per 10 pts),complete case,906,t2pcs12,
+asku0,0.081,-0.738,0.899,0.847,points,ASKU self-efficacy T0 (per 1 pt),complete case,906,t2pcs12,
+t1health_yes,2.08,0.964,3.196,0.0,points,Excellent/very good health prognosis T1,complete case,906,t2pcs12,
+t1pension_yes,-1.69,-3.339,-0.04,0.045,points,Pension desire T1,complete case,906,t2pcs12,
+t1occupat_yes,0.209,-1.02,1.437,0.739,points,Negative occupational prognosis T1,complete case,906,t2pcs12,
+age10,0.748,-0.113,1.61,0.089,points,Age (per 10 years),complete case,906,t2mcs12,
+female,0.136,-1.457,1.729,0.867,points,Female sex,complete case,906,t2mcs12,
+edu_high,0.653,-0.751,2.056,0.362,points,College/university education,complete case,906,t2mcs12,
+acs,0.663,-0.64,1.966,0.319,points,Indication: ACS,complete case,906,t2mcs12,
+hf_indication,3.049,-0.581,6.679,0.1,points,Indication: chronic heart failure,complete case,906,t2mcs12,
+training0_10,-0.243,-0.592,0.106,0.173,points,Training load T0 (per 10 W),complete case,906,t2mcs12,
+dtraining_10,0.102,-0.216,0.419,0.53,points,Change in training load T0 to T1 (per 10 W),complete case,906,t2mcs12,
+pcs0_10,1.486,0.526,2.446,0.002,points,SF-12 PCS T0 (per 10 pts),complete case,906,t2mcs12,
+dpcs_10,2.073,1.119,3.028,0.0,points,Change in PCS T0 to T1 (per 10 pts),complete case,906,t2mcs12,
+mcs0_10,4.291,3.223,5.359,0.0,points,SF-12 MCS T0 (per 10 pts),complete case,906,t2mcs12,
+dmcs_10,3.224,2.262,4.186,0.0,points,Change in MCS T0 to T1 (per 10 pts),complete case,906,t2mcs12,
+haf0,-1.587,-3.034,-0.14,0.032,points,HAF-17 mean T0 (per 1 pt),complete case,906,t2mcs12,
+dhaf,0.227,-1.499,1.953,0.797,points,Change in HAF-17 T0 to T1 (per 1 pt),complete case,906,t2mcs12,
+who0_10,0.51,0.131,0.89,0.008,points,WHO-5 T0 (per 10 pts),complete case,906,t2mcs12,
+asku0,0.42,-0.565,1.406,0.403,points,ASKU self-efficacy T0 (per 1 pt),complete case,906,t2mcs12,
+t1health_yes,-0.901,-2.245,0.443,0.189,points,Excellent/very good health prognosis T1,complete case,906,t2mcs12,
+t1pension_yes,-1.959,-3.945,0.026,0.053,points,Pension desire T1,complete case,906,t2mcs12,
+t1occupat_yes,-0.614,-2.093,0.866,0.416,points,Negative occupational prognosis T1,complete case,906,t2mcs12,
+age10,1.094,0.884,1.355,0.409,odds ratio,Age (per 10 years),multiple imputation (m=20),1262,rtw_yes,0.012
+female,1.05,0.733,1.506,0.789,odds ratio,Female sex,multiple imputation (m=20),1262,rtw_yes,0.02
+edu_high,1.278,0.896,1.821,0.175,odds ratio,College/university education,multiple imputation (m=20),1262,rtw_yes,0.009
+acs,0.689,0.501,0.946,0.021,odds ratio,Indication: ACS,multiple imputation (m=20),1262,rtw_yes,0.011
+hf_indication,1.005,0.436,2.32,0.99,odds ratio,Indication: chronic heart failure,multiple imputation (m=20),1262,rtw_yes,0.004
+training0_10,1.225,1.112,1.35,0.0,odds ratio,Training load T0 (per 10 W),multiple imputation (m=20),1262,rtw_yes,0.034
+dtraining_10,1.071,0.985,1.164,0.107,odds ratio,Change in training load T0 to T1 (per 10 W),multiple imputation (m=20),1262,rtw_yes,0.095
+pcs0_10,1.49,1.188,1.869,0.001,odds ratio,SF-12 PCS T0 (per 10 pts),multiple imputation (m=20),1262,rtw_yes,0.048
+dpcs_10,1.137,0.91,1.42,0.259,odds ratio,Change in PCS T0 to T1 (per 10 pts),multiple imputation (m=20),1262,rtw_yes,0.088
+mcs0_10,1.449,1.138,1.844,0.003,odds ratio,SF-12 MCS T0 (per 10 pts),multiple imputation (m=20),1262,rtw_yes,0.052
+dmcs_10,1.252,1.008,1.554,0.042,odds ratio,Change in MCS T0 to T1 (per 10 pts),multiple imputation (m=20),1262,rtw_yes,0.044
+haf0,0.981,0.701,1.372,0.909,odds ratio,HAF-17 mean T0 (per 1 pt),multiple imputation (m=20),1262,rtw_yes,0.039
+dhaf,0.746,0.486,1.145,0.18,odds ratio,Change in HAF-17 T0 to T1 (per 1 pt),multiple imputation (m=20),1262,rtw_yes,0.116
+who0_10,0.929,0.85,1.016,0.108,odds ratio,WHO-5 T0 (per 10 pts),multiple imputation (m=20),1262,rtw_yes,0.042
+asku0,1.008,0.805,1.262,0.945,odds ratio,ASKU self-efficacy T0 (per 1 pt),multiple imputation (m=20),1262,rtw_yes,0.016
+t1health_yes,1.205,0.87,1.669,0.262,odds ratio,Excellent/very good health prognosis T1,multiple imputation (m=20),1262,rtw_yes,0.039
+t1pension_yes,0.366,0.243,0.553,0.0,odds ratio,Pension desire T1,multiple imputation (m=20),1262,rtw_yes,0.042
+t1occupat_yes,0.339,0.239,0.479,0.0,odds ratio,Negative occupational prognosis T1,multiple imputation (m=20),1262,rtw_yes,0.073
+age10,-0.298,-0.937,0.341,0.361,points,Age (per 10 years),multiple imputation (m=20),1181,t2pcs12,0.014
+female,0.643,-0.493,1.778,0.268,points,Female sex,multiple imputation (m=20),1181,t2pcs12,0.022
+edu_high,2.334,1.299,3.368,0.0,points,College/university education,multiple imputation (m=20),1181,t2pcs12,0.016
+acs,-0.854,-1.804,0.095,0.078,points,Indication: ACS,multiple imputation (m=20),1181,t2pcs12,0.01
+hf_indication,-2.175,-4.825,0.474,0.108,points,Indication: chronic heart failure,multiple imputation (m=20),1181,t2pcs12,0.016
+training0_10,0.3,0.037,0.563,0.026,points,Training load T0 (per 10 W),multiple imputation (m=20),1181,t2pcs12,0.049
+dtraining_10,0.291,0.048,0.533,0.019,points,Change in training load T0 to T1 (per 10 W),multiple imputation (m=20),1181,t2pcs12,0.078
+pcs0_10,5.155,4.438,5.872,0.0,points,SF-12 PCS T0 (per 10 pts),multiple imputation (m=20),1181,t2pcs12,0.075
+dpcs_10,3.603,2.883,4.323,0.0,points,Change in PCS T0 to T1 (per 10 pts),multiple imputation (m=20),1181,t2pcs12,0.1
+mcs0_10,1.035,0.242,1.829,0.011,points,SF-12 MCS T0 (per 10 pts),multiple imputation (m=20),1181,t2pcs12,0.134
+dmcs_10,0.321,-0.388,1.03,0.374,points,Change in MCS T0 to T1 (per 10 pts),multiple imputation (m=20),1181,t2pcs12,0.104
+haf0,-1.599,-2.701,-0.497,0.005,points,HAF-17 mean T0 (per 1 pt),multiple imputation (m=20),1181,t2pcs12,0.142
+dhaf,-1.473,-2.854,-0.093,0.037,points,Change in HAF-17 T0 to T1 (per 1 pt),multiple imputation (m=20),1181,t2pcs12,0.182
+who0_10,-0.003,-0.282,0.277,0.985,points,WHO-5 T0 (per 10 pts),multiple imputation (m=20),1181,t2pcs12,0.089
+asku0,0.067,-0.643,0.776,0.854,points,ASKU self-efficacy T0 (per 1 pt),multiple imputation (m=20),1181,t2pcs12,0.025
+t1health_yes,2.427,1.402,3.452,0.0,points,Excellent/very good health prognosis T1,multiple imputation (m=20),1181,t2pcs12,0.09
+t1pension_yes,-2.063,-3.508,-0.617,0.005,points,Pension desire T1,multiple imputation (m=20),1181,t2pcs12,0.045
+t1occupat_yes,0.117,-0.989,1.223,0.836,points,Negative occupational prognosis T1,multiple imputation (m=20),1181,t2pcs12,0.058
+age10,0.866,0.095,1.637,0.028,points,Age (per 10 years),multiple imputation (m=20),1181,t2mcs12,0.008
+female,-0.212,-1.586,1.162,0.762,points,Female sex,multiple imputation (m=20),1181,t2mcs12,0.02
+edu_high,0.23,-1.022,1.482,0.719,points,College/university education,multiple imputation (m=20),1181,t2mcs12,0.016
+acs,0.138,-1.011,1.286,0.815,points,Indication: ACS,multiple imputation (m=20),1181,t2mcs12,0.01
+hf_indication,1.668,-1.524,4.86,0.306,points,Indication: chronic heart failure,multiple imputation (m=20),1181,t2mcs12,0.006
+training0_10,-0.194,-0.509,0.122,0.229,points,Training load T0 (per 10 W),multiple imputation (m=20),1181,t2mcs12,0.031
+dtraining_10,0.138,-0.152,0.427,0.351,points,Change in training load T0 to T1 (per 10 W),multiple imputation (m=20),1181,t2mcs12,0.053
+pcs0_10,1.191,0.335,2.046,0.006,points,SF-12 PCS T0 (per 10 pts),multiple imputation (m=20),1181,t2mcs12,0.047
+dpcs_10,1.71,0.834,2.587,0.0,points,Change in PCS T0 to T1 (per 10 pts),multiple imputation (m=20),1181,t2mcs12,0.11
+mcs0_10,4.559,3.64,5.478,0.0,points,SF-12 MCS T0 (per 10 pts),multiple imputation (m=20),1181,t2mcs12,0.055
+dmcs_10,3.087,2.263,3.911,0.0,points,Change in MCS T0 to T1 (per 10 pts),multiple imputation (m=20),1181,t2mcs12,0.029
+haf0,-1.775,-3.034,-0.515,0.006,points,HAF-17 mean T0 (per 1 pt),multiple imputation (m=20),1181,t2mcs12,0.039
+dhaf,0.093,-1.523,1.708,0.91,points,Change in HAF-17 T0 to T1 (per 1 pt),multiple imputation (m=20),1181,t2mcs12,0.126
+who0_10,0.442,0.112,0.772,0.009,points,WHO-5 T0 (per 10 pts),multiple imputation (m=20),1181,t2mcs12,0.042
+asku0,-0.037,-0.892,0.817,0.931,points,ASKU self-efficacy T0 (per 1 pt),multiple imputation (m=20),1181,t2mcs12,0.015
+t1health_yes,-0.486,-1.721,0.749,0.44,points,Excellent/very good health prognosis T1,multiple imputation (m=20),1181,t2mcs12,0.081
+t1pension_yes,-2.549,-4.3,-0.797,0.004,points,Pension desire T1,multiple imputation (m=20),1181,t2mcs12,0.047
+t1occupat_yes,-0.7,-2.047,0.647,0.308,points,Negative occupational prognosis T1,multiple imputation (m=20),1181,t2mcs12,0.069

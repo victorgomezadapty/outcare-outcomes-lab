@@ -1,0 +1,19 @@
+{
+  "generated_utc": "2026-11-10T16:13:37+00:00",
+  "source": {
+    "doi": "10.5281/zenodo.3605618",
+    "license": "CC BY 4.0",
+    "md5": "1d739ee05282cb6133ad415fb0290b23",
+    "bytes": 459424,
+    "article_doi": "10.1371/journal.pone.0232752"
+  },
+  "n": 1262,
+  "rtw_n": 864,
+  "rtw_pct": 68.46,
+  "n_imputations": 20,
+  "complete_case_n": {
+    "rtw_yes": 949,
+    "t2pcs12": 906,
+    "t2mcs12": 906
+  }
+}

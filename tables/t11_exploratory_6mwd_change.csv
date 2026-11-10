@@ -1,0 +1,4 @@
+outcome,term,n,scale,estimate,ci_low,ci_high,p
+rtw_yes,Change in 6MWD (per 50 m),812,odds ratio,1.519,1.302,1.772,0.0
+t2pcs12,Change in 6MWD (per 50 m),766,points,1.786,1.184,2.388,0.0
+t2mcs12,Change in 6MWD (per 50 m),766,points,0.716,0.014,1.419,0.046

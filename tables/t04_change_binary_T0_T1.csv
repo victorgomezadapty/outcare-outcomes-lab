@@ -1,0 +1,6 @@
+measure,n_paired,pct_t0,pct_t1,diff_pp,mcnemar_p
+Current smoker,1234,34.603,15.154,-19.449,0.0
+Lifestyle change motivation,1187,79.107,87.363,8.256,0.0
+Excellent/very good health prognosis,1187,42.881,50.969,8.088,0.0
+Pension desire,1170,17.521,15.556,-1.966,0.029
+Negative occupational prognosis,1137,40.721,44.591,3.87,0.0
