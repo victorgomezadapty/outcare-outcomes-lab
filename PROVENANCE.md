@@ -15,6 +15,10 @@
 | Identifiers | No names, dates, centre codes or other direct identifiers in the file |
 | Trial registry | DRKS00011418 states individual participant data are shared in anonymized form via this Zenodo dataset |
 | Article | Salzwedel et al., PLOS ONE 2020, https://doi.org/10.1371/journal.pone.0232752 |
+| Kaggle dataset | https://www.kaggle.com/datasets/vctorandrsgmezlpez/outcare-cardiac-rehabilitation-outcomes-registry |
+| Kaggle notebook | https://www.kaggle.com/code/vctorandrsgmezlpez/outcare-outcomes-lab-cr-change-and-return-to-work |
+
+The Kaggle pages host this same Zenodo file and the analysis notebook for reuse. Loading and the md5 check still use only the Zenodo file above.
 
 ## Rules for this project
 

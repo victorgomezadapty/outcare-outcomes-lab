@@ -13,6 +13,10 @@ The only data used in this project is the OutCaRe dataset published on Zenodo:
 * License: Creative Commons Attribution 4.0 International (CC BY 4.0),
   https://creativecommons.org/licenses/by/4.0/ (Zenodo license id `cc-by-4.0`, access right `open`).
 * File: `data/raw/OutCaRe-Datenbank.xlsx`, unmodified copy of the Zenodo file.
+* The same workbook and a walkthrough notebook for this analysis are also on Kaggle, as a reuse
+  copy of this Zenodo file:
+  * Dataset: https://www.kaggle.com/datasets/vctorandrsgmezlpez/outcare-cardiac-rehabilitation-outcomes-registry
+  * Notebook: https://www.kaggle.com/code/vctorandrsgmezlpez/outcare-outcomes-lab-cr-change-and-return-to-work
 * The tables in `tables/`, figures in `figures/`, `RESULTS.md` and the notebook outputs are
   derived from this dataset and are shared under the same CC BY 4.0 terms with the attribution
   above. Changes made: recoding of 1 = yes / 2 = no variables to 0/1 indicators, derived change
