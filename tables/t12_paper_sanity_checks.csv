@@ -1,0 +1,24 @@
+check,paper,this_analysis
+Follow-up patients (n),1262,1262
+"Age, mean (SD)",54 (7),54.2 (7.0)
+Age range in file,up to 65 (inclusion),21 to 65
+"Male, n (%)",77%,968 (76.7%)
+"Returned to work, n (%)",864 (68.5%),864 (68.5%)
+Retired at 6 months,67 (5.3%),67 (5.3%)
+Applied for pension at 6 months,79 (6.3%),79 (6.3%)
+Unemployed at 6 months,89 (7.1%),89 (7.1%)
+Sick leave at 6 months,190 (15.1%),190 (15.1%)
+Readmission at 6 months,194 (15.4%),194 (15.4% of 1260)
+Health moderately/greatly improved,935 (74.7%),938 (74.7% of 1256)
+Capacity enhanced,876 (69.9%),876 (69.9% of 1254)
+SF-12 at 6 months available,1181 (94%),1181
+"PCS / MCS at 6 months, mean (SD)",45.5 (10) / 48.9 (11),45.5 (10.0) / 48.9 (11.0)
+Smokers T0 to T1,35% to 15%,34.6% to 15.2% (paired n=1234)
+Training load change,+21 W,+21.1 W (paired n=1204)
+PCS / MCS change during CR,+5.7 / +6.1,+5.6 / +6.1 (paired n=1072)
+WHO-5 change during CR,+18.3,+18.3 (paired n=1180)
+Negative occupational prognosis T0 to T1,41% to 45%,40.7% to 44.6% (paired n=1137)
+Age/sex adjusted OR for RTW per PCS / MCS point at 6 months,1.08 / 1.06,1.095 / 1.053
+OR pension desire T1 (paper final model),0.33 (0.22 to 0.50),see model table
+OR negative occupational prognosis T1 (paper final model),0.34 (0.24 to 0.48),see model table
+OR ACS (paper final model),0.64 (0.47 to 0.88),see model table

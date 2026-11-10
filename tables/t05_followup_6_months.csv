@@ -1,0 +1,11 @@
+outcome_6_months,n_available,count,pct,ci_low,ci_high,mean,sd
+Returned to work,1262,864.0,68.463,65.846,70.967,,
+Retired,1262,67.0,5.309,4.202,6.687,,
+Applied for/desire pension,1262,79.0,6.26,5.052,7.734,,
+Unemployed,1262,89.0,7.052,5.766,8.599,,
+On sick leave,1262,190.0,15.055,13.189,17.134,,
+Readmission to acute hospital care,1260,194.0,15.397,13.509,17.495,,
+Health moderately/greatly improved,1256,938.0,74.682,72.204,77.009,,
+Occupational/physical capacity enhanced,1254,876.0,69.856,67.259,72.332,,
+SF-12 PCS at 6 months,1181,,,44.922,46.07,45.496,10.049
+SF-12 MCS at 6 months,1181,,,48.304,49.556,48.93,10.957

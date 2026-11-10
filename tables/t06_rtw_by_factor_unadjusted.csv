@@ -1,0 +1,17 @@
+factor,level,n,rtw_n,rtw_pct,ci_low,ci_high
+Pension desire T1,yes,189,54,28.571,22.608,35.389
+Pension desire T1,no,1000,765,76.5,73.774,79.023
+Negative occupational prognosis T1,yes,528,257,48.674,44.436,52.932
+Negative occupational prognosis T1,no,641,556,86.739,83.894,89.147
+Education,college/university,288,222,77.083,71.892,81.562
+Education,other,961,633,65.869,62.813,68.798
+Indication,ACS,500,361,72.2,68.115,75.946
+Indication,other,762,503,66.01,62.574,69.286
+Heart failure indication,yes,36,21,58.333,42.2,72.859
+Heart failure indication,no,1226,843,68.76,66.111,71.293
+Sex,female,294,188,63.946,58.31,69.222
+Sex,male,968,676,69.835,66.87,72.643
+Sick leave before CR,yes,892,601,67.377,64.231,70.373
+Sick leave before CR,no,356,254,71.348,66.443,75.798
+Excellent/very good health prognosis T1,yes,608,473,77.796,74.324,80.919
+Excellent/very good health prognosis T1,no,588,348,59.184,55.164,63.084
